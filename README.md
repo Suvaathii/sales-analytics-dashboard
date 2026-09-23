@@ -11,7 +11,7 @@ This project analyzes sales data and displays useful business insights through a
 
 Try the dashboard online:
 
-[Open Sales Analytics Dashboard]([YOUR_STREAMLIT_URL](https://sales-analytics-dashboard-py.streamlit.app/))
+[Open Sales Analytics Dashboard](https://sales-analytics-dashboard-py.streamlit.app/)
 
 ## 🛠️ Technologies Used
 
