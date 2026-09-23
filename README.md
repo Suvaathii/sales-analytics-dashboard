@@ -7,6 +7,12 @@ A sales analytics dashboard built using Python and Streamlit.
 
 This project analyzes sales data and displays useful business insights through an interactive dashboard.
 
+## 🌐 Live Demo
+
+Try the dashboard online:
+
+[Open Sales Analytics Dashboard]([YOUR_STREAMLIT_URL](https://sales-analytics-dashboard-py.streamlit.app/))
+
 ## 🛠️ Technologies Used
 
 - Python
