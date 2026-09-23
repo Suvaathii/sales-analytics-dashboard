@@ -57,3 +57,14 @@ streamlit run dashboard.py
 - Add more filters
 - Deploy the dashboard online
 - Add advanced analytics
+
+## 📸 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Product Analysis
+![Product Analysis](screenshots/dashboard-products.png)
+
+### Business Insights
+![Business Insights](screenshots/dashboard-insights.png)
