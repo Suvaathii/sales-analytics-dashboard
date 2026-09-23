@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-df = pd.read_csv("sales_data.csv")
+df = pd.read_csv("data/sales_data.csv")
 
 # Category filter
 st.sidebar.header("Filters")

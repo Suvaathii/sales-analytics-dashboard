@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("sales_data.csv")
+df = pd.read_csv("data/sales_data.csv")
 
 print("Original Data:")
 print(df)

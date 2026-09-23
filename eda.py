@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("sales_data.csv")
+df = pd.read_csv("data/sales_data.csv")
 
 # Category-wise sales
 category_sales = df.groupby("Category")["Sales"].sum()
